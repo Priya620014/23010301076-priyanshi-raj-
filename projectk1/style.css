@@ -1,0 +1,27 @@
+.fi{
+    border: 5px solid black;
+    height:400px;
+    width:400px;
+    float:left;
+    background-color: antiquewhite;
+    color:crimson
+    
+
+}
+.si{
+    border: 5px solid black;
+    height:400px;
+    width:420px;
+    float:left;
+    background-color: antiquewhite;
+    text-align: center;
+    ;
+    
+}
+.fs{
+    border: 5px solid black;
+    height:200px;
+    width:820px;
+    padding:5px;
+    
+}
