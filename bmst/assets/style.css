@@ -1,0 +1,332 @@
+
+.container{
+    border:1px solid black;
+    background-color: lightpink;
+    /*background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Hd-Laptop-wallpapers.jpg)*/;
+    height:50px;
+    width:100%;
+}
+li{
+    list-style: none;
+    float: left;
+    margin-left: 20px;
+    color:darkslategray;
+    font-size: 20px;
+}
+input{
+    height:25px;
+    
+}
+button{
+    height:30px;
+    background-color:darkslategray;
+    color:white;
+    margin-left: 500px;
+    
+}
+.login{ 
+    height:300px;
+    width:50%;
+    margin-left: 380px;
+    margin-top: 120px;
+}
+.dashboard{
+    width:100%;
+    border: 1px solid black;
+    height:500px;
+    background-image: url(http://www.pixelstalk.net/wp-content/uploads/2016/05/Hd-Laptop-wallpapers.jpg);
+    margin-top: 5px;
+}
+.footer{
+    width:100%;
+    border:1px solid black;
+    height: 500px;
+    background-color: lightpink;
+}
+h3{
+    margin-left: 550px;
+    margin-top: 50px;
+    color: darkslategray;
+    font-size: 25px;
+
+}
+p{
+    margin-left: 400px;
+    color: darkslategray;
+}
+h4{
+    margin-left: 100px;
+    color:darkslategray;
+    font-size: 25px;
+}
+h5{
+    margin-left: 100px;
+    color:darkslategray;
+    font-size: 15px;
+}
+.info{
+    float:left;
+}
+.help{
+    margin-left: 900px;
+    margin-top: 50px;
+
+}
+a{
+    text-decoration: none;
+    color: darkslategrey;
+}
+li a{
+    text-decoration: none;
+}
+
+
+
+.cont{
+    width:100%;
+    display: flex;
+}
+.line{
+    height:0;
+    width:900px;
+    border:1px solid lightslategray;
+    float:left;
+    margin-top:20px;
+
+}
+.box{
+    background-color: grey;
+    border:2px solid grey;
+    height:20px;
+    width:70px;
+    margin-top: 9px;
+    text-align: center;
+    
+}
+.lines{
+    height:0;
+    width:900px;
+    border: 1px solid lightslategray;
+    float:left;
+    margin-top:20px;
+    
+
+}
+
+.box2{
+    width:92%;
+    border: 2px solid grey;
+    height:750px;
+    margin-left: 40px;
+}
+.buttons{
+    width:150px;
+    height:40px;
+    background-color:darkslategray;
+    color: white;
+    margin-top: 20px;
+    margin-left:950px;
+}
+.product{
+     margin-left: 20px;
+     color: burlywood;
+     
+}
+.orange_line{
+    width:150px;
+    height:0;
+    border: 2px solid burlywood;
+    
+}
+.greyline{
+    height: 0;
+    width:1100px;
+    margin-left: 10px;
+    border:1px solid grey;
+
+}
+.checkbox{
+    margin-left:10px;
+    float: left;
+    padding-top:15px;
+}
+.copy{
+    margin-left: 20px;
+    color: black;
+}
+.he{
+    margin-left: 270px;
+    
+}
+.browse{
+    height: 100px;
+    width:300px;
+    background-color: rgb(225, 238, 243);
+    border: 2px dotted grey;
+    margin-left: 180px;
+    float:left;
+}
+.files{
+    width:100px;
+    height:40px;
+    background-color:white;
+    margin-left: 90px;
+    margin-top: 30px;
+    border:1px solid lightseagreen;
+    color: lightseagreen;
+    border-radius: 2px;
+    
+}
+.images{
+    margin-left: 700px;
+    margin-top: 60px;
+
+}
+.front_image{
+    float: left;
+}
+.ho{
+    
+    margin-top: 50px;
+    padding-left:10px;
+    
+}
+input{
+    margin-left: 10px;
+    float: ;
+    padding-left:10px;
+    
+}
+.riya{
+    display:flex;
+    margin-right: 100px;
+}
+.inputbox{
+   float:left;
+   
+}
+.inputdabba{
+   
+}
+.some{
+    margin-left: 10px;
+    width:20%;
+    border: 2px solid red;
+    margin-top: 40px;
+
+}
+.kth{
+    float: left;
+}
+
+
+.box3{
+    height:500px;
+    width:100%;
+    background-color: lightblue;
+}
+.box6{
+    margin-top:50px;
+}
+
+
+
+.addpage{
+    height:270px;
+    width:97%;
+    background-color: white;
+    margin-top: 100px;
+    margin-left: 20px;
+   
+}
+.line{
+    height: 0px;
+    width:100%;
+    border: 1px solid grey;
+   
+    margin-top: 30px;
+}
+.al{
+    display: flex;
+}
+.one{
+        border:none;
+        border-radius: 2px;;
+        background-color: seagreen;
+        height:23px;
+        margin-top:15px;
+        width:200px;
+        color: white;
+        text-align: center;
+        padding-top: 5px;
+    }
+    .two{
+        border:none;
+        background-color:  rgb(237, 237, 237);
+        height:23px;
+        color: black;
+        border-radius: 2px;
+        margin-top:15px;
+        width:200px;
+        padding-top: 5px;
+       text-align: center;
+    }
+    ._2p{
+display: flex;
+justify-content: space-evenly;
+font-size: 11px;
+font-weight: bold;
+color:grey;
+    }
+    .select{
+        display: flex;
+        padding-top: 20px;
+    }   
+    .s1 input{
+      width: 800px;
+        margin-left: 20px;
+    }
+    .s1 p{
+        margin-left: 20px;
+  margin-bottom: 5px;
+  font-size: 14px;
+    }
+    .s2 input{
+       width: 400px;
+       margin-left: 10px;
+    }
+    .s2 label{
+        background-color: white;
+        width:300px;
+    }
+    .s2 p{
+  margin-bottom: 5px;
+  font-size: 14px;
+  margin-left: 10px;
+    }
+    .section{
+        padding-left: 20px;
+        font-size: 14px;
+    }
+    .l2{
+margin-left: 200px;
+    }
+.l3{
+        margin-left: 200px;
+ }
+.b1{
+                background-color: seagreen;
+                border:none;
+                margin-top: 50px;
+                height: 25px;
+                width:100px;
+                margin-left: 1130px;
+                border-radius: 3px;
+        color: white;
+            }
+ .op{
+width:400px;
+background-color: white;
+}
+
+
